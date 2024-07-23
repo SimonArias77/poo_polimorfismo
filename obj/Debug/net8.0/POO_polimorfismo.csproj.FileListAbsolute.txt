@@ -1,0 +1,14 @@
+/home/riwip5-006/C#/POO_polimorfismo/bin/Debug/net8.0/POO_polimorfismo
+/home/riwip5-006/C#/POO_polimorfismo/bin/Debug/net8.0/POO_polimorfismo.deps.json
+/home/riwip5-006/C#/POO_polimorfismo/bin/Debug/net8.0/POO_polimorfismo.runtimeconfig.json
+/home/riwip5-006/C#/POO_polimorfismo/bin/Debug/net8.0/POO_polimorfismo.dll
+/home/riwip5-006/C#/POO_polimorfismo/bin/Debug/net8.0/POO_polimorfismo.pdb
+/home/riwip5-006/C#/POO_polimorfismo/obj/Debug/net8.0/POO_polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-006/C#/POO_polimorfismo/obj/Debug/net8.0/POO_polimorfismo.AssemblyInfoInputs.cache
+/home/riwip5-006/C#/POO_polimorfismo/obj/Debug/net8.0/POO_polimorfismo.AssemblyInfo.cs
+/home/riwip5-006/C#/POO_polimorfismo/obj/Debug/net8.0/POO_polimorfismo.csproj.CoreCompileInputs.cache
+/home/riwip5-006/C#/POO_polimorfismo/obj/Debug/net8.0/POO_polimorfismo.dll
+/home/riwip5-006/C#/POO_polimorfismo/obj/Debug/net8.0/refint/POO_polimorfismo.dll
+/home/riwip5-006/C#/POO_polimorfismo/obj/Debug/net8.0/POO_polimorfismo.pdb
+/home/riwip5-006/C#/POO_polimorfismo/obj/Debug/net8.0/POO_polimorfismo.genruntimeconfig.cache
+/home/riwip5-006/C#/POO_polimorfismo/obj/Debug/net8.0/ref/POO_polimorfismo.dll
